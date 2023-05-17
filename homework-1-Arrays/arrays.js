@@ -32,7 +32,7 @@ console.log(initialDivide);
 // 4.
 initialValues[0] = initialSum;
 initialValues[3] = initialMultiply;
-// initialValues[6][2] = initialArray;
+initialValues[6][2] = initialArray;
 console.log(initialValues);
 
 // 5.
