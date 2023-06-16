@@ -28,7 +28,7 @@ else {
 
 // ---A doua parte BONUS---
 
-let tipVehicul = prompt("Introduceti tipul de vehicul");
+const tipVehicul = prompt("Introduceti tipul de vehicul");
 let capacitCilind;
 
 switch (tipVehicul) {
